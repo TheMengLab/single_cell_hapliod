@@ -1,0 +1,8 @@
+This is a example to construct 10-kb resolution structures from mESC data published in Laue's work
+
+Below is the command to run the code for the modeling
+
+tar -zxvf modeling.tar.gz 
+
+bash prepare.sh
+bash runMD.sh
